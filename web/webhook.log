@@ -1,0 +1,462 @@
+2016-11-24 10:11:23 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 10:11:31 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 10:11:32 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 10:11:32 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 10:11:32 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 10:11:33 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 10:11:36 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 10:11:36 QUERY: https://api.telegram.org/bot243030488:AAEjCs-26ATf8AnaAHZD0bBaHygkWvx0Yw/sendMessage
+chat_id=-159384753&text=Hui&disable_notification=1
+2016-11-24 10:11:36 RESPONSE: {"ok":false,"error_code":401,"description":"Unauthorized"}
+2016-11-24 10:11:36 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 10:11:37 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 10:11:37 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 10:11:37 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 10:11:37 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 10:11:38 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 11:11:11 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 11:11:11 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 11:11:12 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 11:11:12 QUERY: https://api.telegram.org/bot243030488:AAEjCs-26ATf8AnaAHZD0bBaHygkWvx0Yw/sendMessage
+chat_id=-159384753&text=Hui&disable_notification=1
+2016-11-24 11:11:12 RESPONSE: {"ok":false,"error_code":401,"description":"Unauthorized"}
+2016-11-24 11:11:16 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 11:11:16 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 11:11:16 QUERY: https://api.telegram.org/bot243030488:AAEjCs-26ATf8AnaAHZD0bBaHygkWvx0Yw/sendMessage
+chat_id=-159384753&text=Hui&disable_notification=1
+2016-11-24 11:11:16 RESPONSE: {"ok":false,"error_code":401,"description":"Unauthorized"}
+2016-11-24 11:11:17 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 11:11:17 QUERY: https://api.telegram.org/bot243030488:AAEjCs-26ATf8AnaAHZD0bBaHygkWvx0Yw/sendMessage
+chat_id=-159384753&text=Hui&disable_notification=1
+2016-11-24 11:11:17 RESPONSE: {"ok":false,"error_code":401,"description":"Unauthorized"}
+2016-11-24 11:11:18 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 11:11:18 QUERY: https://api.telegram.org/bot243030488:AAEjCs-26ATf8AnaAHZD0bBaHygkWvx0Yw/sendMessage
+chat_id=-159384753&text=Hui&disable_notification=0
+2016-11-24 11:11:18 RESPONSE: {"ok":false,"error_code":401,"description":"Unauthorized"}
+2016-11-24 11:11:21 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 11:11:21 QUERY: https://api.telegram.org/bot243030488:AAEjCs-26ATf8AnaAHZD0bBaHygkWvx0Ywg/sendMessage
+chat_id=-159384753&text=Hui&disable_notification=0
+2016-11-24 11:11:21 RESPONSE: {"ok":true,"result":{"message_id":7,"from":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968504,"text":"Hui"}}
+2016-11-24 11:11:24 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 11:11:24 QUERY: https://api.telegram.org/bot243030488:AAEjCs-26ATf8AnaAHZD0bBaHygkWvx0Ywg/sendMessage
+chat_id=-159384753&text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D0%B8%D0%BA%D0%B8%21+%D0%9D%D0%B0%D0%BF%D0%B8%D1%88%D0%B8+%2Fpidoreg+%D0%B5%D1%81%D0%BB%D0%B8+%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B5%D1%88%D1%8C+%D1%81%D0%B5%D0%B1%D1%8F+%D0%BD%D0%B5%D1%83%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%BD%D0%BE.&disable_notification=1
+2016-11-24 11:11:24 RESPONSE: {"ok":true,"result":{"message_id":8,"from":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968662,"text":"\u041f\u0440\u0438\u0432\u0435\u0442\u0438\u043a\u0438! \u041d\u0430\u043f\u0438\u0448\u0438 /pidoreg \u0435\u0441\u043b\u0438 \u0447\u0443\u0432\u0441\u0442\u0432\u0443\u0435\u0448\u044c \u0441\u0435\u0431\u044f \u043d\u0435\u0443\u0432\u0435\u0440\u0435\u043d\u043d\u043e.","entities":[{"type":"bot_command","offset":18,"length":8}]}}
+2016-11-24 11:11:27 REQUEST: {"update_id":115990401,
+"message":{"message_id":6,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479964152,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+2016-11-24 11:11:29 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 11:11:29 REQUEST: {"update_id":115990400,
+"message":{"message_id":5,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":true},"date":1479963450,"new_chat_participant":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"},"new_chat_member":{"id":243030488,"first_name":"pidobot","username":"faggotRobot"}}}
+2016-11-24 11:11:44 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 11:11:51 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 11:11:51 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 11:11:51 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 11:11:52 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 11:11:53 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 11:11:53 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 11:11:53 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotaRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 11:11:54 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 11:11:58 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 12:11:01 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 12:11:03 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 12:11:03 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 12:11:10 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 12:11:11 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 12:11:11 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 12:11:11 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 12:11:14 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 12:11:26 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 12:11:26 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 12:11:50 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 12:11:56 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 12:11:56 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:02 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:02 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:03 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:03 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:04 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:05 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:05 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:05 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:05 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:05 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:17 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:17 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:18 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:18 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:18 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:19 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:19 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:19 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:19 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:20 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:20 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:24 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:29 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:31 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:34 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:36 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 13:11:36 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 14:11:16 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 14:11:17 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 14:11:29 REQUEST: {"update_id":115990402,
+"message":{"message_id":9,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479968915,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-11-24 14:11:30 REQUEST: {"update_id":115990413,
+"message":{"message_id":46,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479979721,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-11-24 14:11:30 REQUEST: {"update_id":115990413,
+"message":{"message_id":46,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479979721,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-11-24 14:11:31 REQUEST: {"update_id":115990413,
+"message":{"message_id":46,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479979721,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-11-24 14:11:36 REQUEST: {"update_id":115990413,
+"message":{"message_id":46,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479979721,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-11-24 14:11:37 REQUEST: {"update_id":115990413,
+"message":{"message_id":46,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479979721,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-11-24 14:11:37 REQUEST: {"update_id":115990413,
+"message":{"message_id":46,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479979721,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-11-24 14:11:38 REQUEST: {"update_id":115990413,
+"message":{"message_id":46,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479979721,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-11-24 14:11:38 REQUEST: {"update_id":115990413,
+"message":{"message_id":46,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1479979721,"text":"/pidor","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-11-28 12:11:32 REQUEST: {"update_id":115990458,
+"message":{"message_id":86,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1480318265,"text":"/pidoreg@faggotRobot @megachel","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":9}]}}
+
+2016-11-28 12:11:37 REQUEST: {"update_id":115990458,
+"message":{"message_id":86,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1480318265,"text":"/pidoreg@faggotRobot @megachel","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":9}]}}
+
+2016-11-28 12:11:42 REQUEST: {"update_id":115990458,
+"message":{"message_id":86,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1480318265,"text":"/pidoreg@faggotRobot @megachel","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":9}]}}
+
+2016-11-28 12:11:43 REQUEST: {"update_id":115990458,
+"message":{"message_id":86,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1480318265,"text":"/pidoreg@faggotRobot @megachel","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":9}]}}
+
+2016-11-28 12:11:44 REQUEST: {"update_id":115990458,
+"message":{"message_id":86,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1480318265,"text":"/pidoreg@faggotRobot @megachel","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":9}]}}
+
+2016-11-28 12:11:44 REQUEST: {"update_id":115990458,
+"message":{"message_id":86,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1480318265,"text":"/pidoreg@faggotRobot @megachel","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":9}]}}
+
+2016-11-28 12:11:44 REQUEST: {"update_id":115990458,
+"message":{"message_id":86,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1480318265,"text":"/pidoreg@faggotRobot @megachel","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":9}]}}
+
+2016-11-28 12:11:44 REQUEST: {"update_id":115990458,
+"message":{"message_id":86,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1480318265,"text":"/pidoreg@faggotRobot @megachel","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":9}]}}
+
+2016-11-28 12:11:45 REQUEST: {"update_id":115990458,
+"message":{"message_id":86,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1480318265,"text":"/pidoreg@faggotRobot @megachel","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":9}]}}
+
+2016-11-28 12:11:45 REQUEST: {"update_id":115990458,
+"message":{"message_id":86,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1480318265,"text":"/pidoreg@faggotRobot @megachel","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":9}]}}
+
+2016-11-28 12:11:45 REQUEST: {"update_id":115990458,
+"message":{"message_id":86,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1480318265,"text":"/pidoreg@faggotRobot @megachel","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":9}]}}
+
+2016-11-28 12:11:45 REQUEST: {"update_id":115990458,
+"message":{"message_id":86,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1480318265,"text":"/pidoreg@faggotRobot @megachel","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":9}]}}
+
+2016-11-28 12:11:46 REQUEST: {"update_id":115990458,
+"message":{"message_id":86,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1480318265,"text":"/pidoreg@faggotRobot @megachel","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":9}]}}
+
+2016-11-28 12:11:46 REQUEST: {"update_id":115990458,
+"message":{"message_id":86,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1480318265,"text":"/pidoreg@faggotRobot @megachel","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":9}]}}
+
+2016-11-28 12:11:46 REQUEST: {"update_id":115990458,
+"message":{"message_id":86,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1480318265,"text":"/pidoreg@faggotRobot @megachel","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":9}]}}
+
+2016-11-28 12:11:54 REQUEST: {"update_id":115990458,
+"message":{"message_id":86,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1480318265,"text":"/pidoreg@faggotRobot @megachel","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":9}]}}
+
+2016-11-28 12:11:54 REQUEST: {"update_id":115990458,
+"message":{"message_id":86,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1480318265,"text":"/pidoreg@faggotRobot @bifidokk","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":9}]}}
+
+2016-11-28 12:11:55 REQUEST: {"update_id":115990458,
+"message":{"message_id":86,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1480318265,"text":"/pidoreg@faggotRobot @bifidokk","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":9}]}}
+
+2016-12-10 11:12:05 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/pidoreg@faggotRobot @asdqwe","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 11:12:32 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/pidor@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 11:12:32 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/pidor@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 11:12:54 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 11:12:55 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 11:12:56 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 11:12:56 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 11:12:57 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 11:12:57 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 11:12:57 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 11:12:59 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 11:12:59 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 12:12:00 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 12:12:01 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 12:12:01 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 12:12:01 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 12:12:02 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 12:12:05 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 12:12:06 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 12:12:06 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 12:12:06 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 12:12:10 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 12:12:10 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 12:12:14 REQUEST: {"update_id":115990497,
+"message":{"message_id":101,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481349882,"text":"/stat@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20},{"type":"mention","offset":21,"length":7}]}}
+2016-12-10 12:12:33 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":5}]}}
+
+2016-12-10 12:12:37 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":5}]}}
+
+2016-12-10 12:12:38 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":5}]}}
+
+2016-12-10 12:12:38 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":5}]}}
+
+2016-12-10 12:12:38 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":5}]}}
+
+2016-12-10 12:12:38 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 12:12:38 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 12:12:38 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 12:12:39 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 12:12:40 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 12:12:40 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 12:12:45 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 12:12:50 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 13:12:02 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 13:12:02 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 13:12:02 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 13:12:03 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 13:12:03 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 13:12:03 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 13:12:10 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 13:12:10 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 13:12:11 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 13:12:11 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 13:12:12 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 13:12:13 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 13:12:13 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 13:12:13 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 13:12:14 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 13:12:14 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 13:12:17 REQUEST:  {"update_id":115990506,
+"message":{"message_id":135,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-159384753,"title":"test","type":"group","all_members_are_administrators":false},"date":1481354944,"text":"/dates","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+
+2016-12-10 13:12:35 REQUEST: {"update_id":115990523,
+"message":{"message_id":188,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-185459950,"title":"\u0427\u0430\u0442\u0438\u043a \u0441\u0447\u0430\u0441\u0442\u043b\u0438\u0432\u044b\u0445 \u043f\u0438\u0434\u043e\u0440\u0430\u0441\u043e\u0432","type":"group","all_members_are_administrators":true},"date":1481358561,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-12-10 13:12:35 REQUEST: {"update_id":115990523,
+"message":{"message_id":188,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-185459950,"title":"\u0427\u0430\u0442\u0438\u043a \u0441\u0447\u0430\u0441\u0442\u043b\u0438\u0432\u044b\u0445 \u043f\u0438\u0434\u043e\u0440\u0430\u0441\u043e\u0432","type":"group","all_members_are_administrators":true},"date":1481358561,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-12-10 13:12:35 REQUEST: {"update_id":115990523,
+"message":{"message_id":188,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-185459950,"title":"\u0427\u0430\u0442\u0438\u043a \u0441\u0447\u0430\u0441\u0442\u043b\u0438\u0432\u044b\u0445 \u043f\u0438\u0434\u043e\u0440\u0430\u0441\u043e\u0432","type":"group","all_members_are_administrators":true},"date":1481358561,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-12-10 13:12:38 REQUEST: {"update_id":115990523,
+"message":{"message_id":188,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-185459950,"title":"\u0427\u0430\u0442\u0438\u043a \u0441\u0447\u0430\u0441\u0442\u043b\u0438\u0432\u044b\u0445 \u043f\u0438\u0434\u043e\u0440\u0430\u0441\u043e\u0432","type":"group","all_members_are_administrators":true},"date":1481358561,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+
+2016-12-10 13:12:38 REQUEST: {"update_id":115990523,
+"message":{"message_id":188,"from":{"id":415645,"first_name":"Mikhail","last_name":"Mironov","username":"megachel"},"chat":{"id":-185459950,"title":"\u0427\u0430\u0442\u0438\u043a \u0441\u0447\u0430\u0441\u0442\u043b\u0438\u0432\u044b\u0445 \u043f\u0438\u0434\u043e\u0440\u0430\u0441\u043e\u0432","type":"group","all_members_are_administrators":true},"date":1481358561,"text":"/pidoreg@faggotRobot","entities":[{"type":"bot_command","offset":0,"length":20}]}}
+

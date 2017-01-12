@@ -1,0 +1,17 @@
+# Learn more about services, parameters and containers at
+# http://symfony.com/doc/current/service_container.html
+parameters:
+#    parameter_name: value
+
+services:
+#    service_name:
+#        class: AppBundle\Directory\ClassName
+#        arguments: ["@another_service_name", "plain_value", "%parameter_name%"]
+
+    message_query_service:
+        class: AppBundle\Service\MessageQueryService
+        arguments: ["@doctrine.orm.entity_manager", "@telegram_service", "%telegram_bot_id%", "%telegram_bot_username%"]
+
+    telegram_service:
+        class: AppBundle\Service\TelegramService
+        arguments: ["%telegram_token%"]
