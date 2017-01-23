@@ -27,6 +27,13 @@ class MessageQueryService
 
     public function proceed(\stdClass $message)
     {
+        if($message->chat->type === 'private') {
+            $this->telegramService->sendMessage(
+                $message->chat->id,
+                'Сюда не пиши, в общий чат пиши.'
+            );
+            return true;
+        };
         if(isset($message->new_chat_member)){
             // Бота добавили в чатик
             if($message->new_chat_member->id == $this->botId){
