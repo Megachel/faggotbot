@@ -61,4 +61,9 @@ class TelegramService
         }
         return $result;
     }
+
+    public function usernameEncode($username)
+    {
+        return str_replace('_', '\_', $username);
+    }
 }

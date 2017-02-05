@@ -160,7 +160,9 @@ class MessageQueryService
         if($chat->getLastPidorTime() > $midnight){
             $this->telegramService->sendMessage(
                 $message->chat->id,
-                'Рулетка "*счастье сфинктора*" на сегодня '. ($chat->getLastPidor()->getUsername() === 'querystring' ? 'Почетным ':'') .'пидором дня объявила @'.$chat->getLastPidor()->getUsername()
+                'Рулетка "*счастье сфинктора*" на сегодня '.
+                ($chat->getLastPidor()->getUsername() === 'querystring' ? 'Почетным ':'').
+                'пидором дня объявила @'. $this->telegramService->usernameEncode($chat->getLastPidor()->getUsername())
             );
             return false;
         }
@@ -201,7 +203,9 @@ class MessageQueryService
             sleep(2);
             $this->telegramService->sendMessage(
                 $message->chat->id,
-                '*'. ($user->getUsername() === 'querystring' ? 'Почетным ':'') .'Пидором дня* объявляется @'. $user->getUsername()
+                '*'. ($user->getUsername() === 'querystring' ? 'Почетным ':'')
+                .'Пидором дня* объявляется @'.
+                $this->telegramService->usernameEncode($user->getUsername())
             );
         }else{
             // yet no users in this chat registered
@@ -235,7 +239,7 @@ class MessageQueryService
             if($chat->getPlayers()->contains($mentionedUser)){
                 $this->telegramService->sendMessage(
                     $message->chat->id,
-                    '@' . $mentionedUser->getUsername() . ' уже участвует в игре "Пидор дня"'
+                    '@' . $this->telegramService->usernameEncode($mentionedUser->getUsername()) . ' уже участвует в игре "Пидор дня"'
                 );
             }else {
                 $chat->addPlayer($mentionedUser);
@@ -244,7 +248,7 @@ class MessageQueryService
 
                 $this->telegramService->sendMessage(
                     $message->chat->id,
-                    '@' . $mentionedUser->getUsername() . ', теперь ты участвуешь в игре "Пидор дня"'
+                    '@' . $this->telegramService->usernameEncode($mentionedUser->getUsername()) . ', теперь ты участвуешь в игре "Пидор дня"'
                 );
             };
 
