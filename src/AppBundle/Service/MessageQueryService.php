@@ -287,6 +287,8 @@ class MessageQueryService
             $chat->setName($chatData->title);
             $this->em->persist($chat);
             $this->em->flush();
+            return true;
         }
+        return false;
     }
 }
