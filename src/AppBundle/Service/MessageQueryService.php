@@ -255,7 +255,7 @@ class MessageQueryService
             if($this->authorNowPlaying){
                 $this->telegramService->sendMessage(
                     $message->chat->id,
-                    '@' . $message->from->username . ', ты, кстати, тоже.'
+                    '@' . $this->telegramService->usernameEncode($message->from->username) . ', ты, кстати, тоже.'
                 );
                 $this->authorNowPlaying = false;
             }
@@ -264,14 +264,14 @@ class MessageQueryService
             if (!$this->authorNowPlaying) {
                 $this->telegramService->sendMessage(
                     $message->chat->id,
-                    '@' . $message->from->username . ', дважды пидором быть нельзя, как бы тебе этого не хотелось.'
+                    '@' . $this->telegramService->usernameEncode($message->from->username) . ', дважды пидором быть нельзя, как бы тебе этого не хотелось.'
                 );
             } else {
                 $this->authorNowPlaying = false;
 
                 $this->telegramService->sendMessage(
                     $message->chat->id,
-                    '@' . $message->from->username . ', теперь ты участвуешь в игре "Пидор дня"'
+                    '@' . $this->telegramService->usernameEncode($message->from->username) . ', теперь ты участвуешь в игре "Пидор дня"'
                 );
             }
         };
