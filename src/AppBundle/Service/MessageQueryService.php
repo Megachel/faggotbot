@@ -129,9 +129,9 @@ class MessageQueryService
             $text = "Рад объявить победителей:\n";
             foreach($stat as $item){
                 if($item['cnt'] == 1) {
-                    $text .= '@' . $item['username'] . " *" . $item['cnt'] . ' раз* не пидорас' . PHP_EOL;
+                    $text .= '@' . $this->telegramService->usernameEncode($item['username']) . " *" . $item['cnt'] . ' раз* не пидорас' . PHP_EOL;
                 }else{
-                    $text .= '@' . $item['username'] . " пидор *" . $item['cnt'] . ' '.
+                    $text .= '@' . $this->telegramService->usernameEncode($item['username']) . " пидор *" . $item['cnt'] . ' '.
                         $this->wordForm($item['cnt'], ['раз', 'раза', 'раз']) .
                         '*' . PHP_EOL;
                 }
